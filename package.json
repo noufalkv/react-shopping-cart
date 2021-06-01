@@ -1,6 +1,6 @@
 {
   "name": "amazona-wd",
-  "type" : "module",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,5 +19,9 @@
   "homepage": "https://github.com/noufalkv/react-shopping-cart#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "eslint-plugin-react": "^7.24.0"
   }
 }
